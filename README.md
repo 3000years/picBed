@@ -1,2 +1,2 @@
-# pictureBed
+# picBed
 NPC的图床
